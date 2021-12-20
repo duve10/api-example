@@ -1,0 +1,30 @@
+.none {
+    display: none;
+}
+
+.mostrar {
+    display: inline;
+}
+
+.row1 {
+    margin-right:auto!important;
+    margin-top: 10px;
+}
+
+.grafico {
+    height: 500px;
+}
+
+.anychart-credits {
+    display: none;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    height: 196px;
+}
